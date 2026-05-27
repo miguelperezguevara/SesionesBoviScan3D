@@ -1,0 +1,200 @@
+[
+  {
+    "animalId" : "0002",
+    "breed" : "Charol brahaman",
+    "isTest" : true,
+    "sessionId" : "B08BF1CE-509E-47E4-BD62-ADBEE0D142D0",
+    "timestamp" : "2026-05-27T00:56:35Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0001",
+    "breed" : "Suizo cebú ",
+    "isTest" : true,
+    "sessionId" : "F71846C9-EEB7-40E9-8879-CAFCD8FD665A",
+    "timestamp" : "2026-05-27T00:57:33Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0001",
+    "breed" : "Suizo cebú ",
+    "isTest" : true,
+    "sessionId" : "A527A13F-F100-4802-B991-1CCE2E4C8F26",
+    "timestamp" : "2026-05-27T00:59:12Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0002",
+    "breed" : "Suizo cebú ",
+    "isTest" : true,
+    "sessionId" : "4DB0DAEA-2D06-4707-A1E1-FFE16C9A76D3",
+    "timestamp" : "2026-05-27T01:00:48Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0003",
+    "breed" : "Angus sentado",
+    "isTest" : true,
+    "sessionId" : "2B02DEB7-E2D3-4222-A0BA-EBD400D004FB",
+    "timestamp" : "2026-05-27T01:03:45Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0004",
+    "breed" : "Angus negro",
+    "isTest" : true,
+    "sessionId" : "7CB49720-C013-4FFF-A5FA-C46F3DC69F05",
+    "timestamp" : "2026-05-27T01:05:56Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0005",
+    "breed" : "Suizo cebú",
+    "isTest" : true,
+    "sessionId" : "5242DB61-C7D1-4615-A3CA-CF99E735C33B",
+    "timestamp" : "2026-05-27T01:09:48Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0005",
+    "breed" : "Suizo cebú ",
+    "isTest" : true,
+    "sessionId" : "002A6A33-D033-4000-9BAB-3E9DA01F6DEA",
+    "timestamp" : "2026-05-27T01:10:52Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0005",
+    "breed" : "Suizo cebú ",
+    "isTest" : true,
+    "sessionId" : "00E91D40-89EB-4E4F-AC47-F00496C3574F",
+    "timestamp" : "2026-05-27T01:11:23Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0005",
+    "breed" : "Suizo cebú ",
+    "isTest" : true,
+    "sessionId" : "2A701293-34F4-429B-B777-D0AB9816934F",
+    "timestamp" : "2026-05-27T01:11:48Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0005",
+    "breed" : "Suizo cebú ",
+    "isTest" : true,
+    "sessionId" : "0423764D-D8FE-4607-9B0E-4818AC901D21",
+    "timestamp" : "2026-05-27T01:12:16Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0005",
+    "isTest" : true,
+    "sessionId" : "C53A4115-1053-49B6-81CB-23471D63DC3D",
+    "timestamp" : "2026-05-27T01:15:47Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0005",
+    "isTest" : true,
+    "sessionId" : "EE46B6C2-B476-4F56-8828-0C5C8C910357",
+    "timestamp" : "2026-05-27T01:16:06Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0006",
+    "breed" : "Suizo cebú ",
+    "isTest" : true,
+    "sessionId" : "BBD56176-A9F0-4F1A-8B9B-858E4C0B73A5",
+    "timestamp" : "2026-05-27T01:18:14Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0006",
+    "breed" : "Suizo cebú traslape ",
+    "isTest" : true,
+    "sessionId" : "A5BEFEE1-809F-4E41-93F3-DED803BE4522",
+    "timestamp" : "2026-05-27T01:18:50Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0006",
+    "breed" : "Suizo cebú traslape ",
+    "isTest" : true,
+    "sessionId" : "A3E0076C-8EF8-4390-9A45-818068B1541F",
+    "timestamp" : "2026-05-27T01:19:18Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0006",
+    "breed" : "Suizo cebú traslape 3",
+    "isTest" : true,
+    "sessionId" : "68C0FC11-8188-45EE-A0DF-6CB8B1FF4640",
+    "timestamp" : "2026-05-27T01:19:48Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0006",
+    "breed" : "Suizo cebú sin traslape ",
+    "isTest" : true,
+    "sessionId" : "6A3E2120-11F0-413C-8E73-F5B2FAD13D40",
+    "timestamp" : "2026-05-27T01:20:23Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0005",
+    "breed" : "Angus negro huyendo ",
+    "isTest" : true,
+    "sessionId" : "5197415E-79F4-4482-9220-2FDD0998E8CE",
+    "timestamp" : "2026-05-27T01:20:49Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0003",
+    "breed" : "Angus rojo tirado",
+    "isTest" : true,
+    "sessionId" : "3761B287-763A-4855-817B-9EC2436EDE71",
+    "timestamp" : "2026-05-27T01:21:55Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0007",
+    "breed" : "Angus rojo parado",
+    "isTest" : true,
+    "sessionId" : "21B234CE-FF4F-4428-BD74-BA480B5D6155",
+    "timestamp" : "2026-05-27T01:23:11Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0008",
+    "breed" : "Angus negro cebu parado",
+    "isTest" : true,
+    "sessionId" : "6526ADCA-86C8-47F5-85BA-6486981AFE34",
+    "timestamp" : "2026-05-27T01:26:19Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0008",
+    "breed" : "Angus negro cebu parado ",
+    "isTest" : true,
+    "sessionId" : "29E7F25B-007C-40DC-A160-6982B5EB1D26",
+    "timestamp" : "2026-05-27T01:26:59Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0008",
+    "breed" : "Angus negro cebu parado ",
+    "isTest" : true,
+    "sessionId" : "2723E853-9CF1-41EC-A701-46ECCC22EB25",
+    "timestamp" : "2026-05-27T01:27:27Z",
+    "weightKg" : 1
+  },
+  {
+    "animalId" : "0007",
+    "breed" : "Suizo cebú detrás oblicuo ",
+    "isTest" : true,
+    "sessionId" : "D3726E80-655C-4642-984C-C7DB55E382CB",
+    "timestamp" : "2026-05-27T01:29:08Z",
+    "weightKg" : 1
+  }
+]
