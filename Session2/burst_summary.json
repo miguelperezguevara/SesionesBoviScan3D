@@ -1,0 +1,8 @@
+{
+  "frames_captured" : 5,
+  "confidence_high_pct_avg" : 45.588787078857422,
+  "confidence_high_pct_min" : 45.180259704589844,
+  "burst_size_target" : 5,
+  "target_sphere_radius_m" : 1.7000000476837158,
+  "min_confidence_level" : 1
+}

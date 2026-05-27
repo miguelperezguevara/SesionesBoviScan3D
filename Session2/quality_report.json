@@ -1,0 +1,66 @@
+{
+  "criteria" : [
+    {
+      "expectedDescription" : "≥ 8000",
+      "id" : 1,
+      "measuredUnit" : "pts",
+      "measuredValue" : 6640,
+      "name" : "Puntos",
+      "passed" : false
+    },
+    {
+      "expectedDescription" : "≥ 25%",
+      "id" : 2,
+      "measuredUnit" : "%",
+      "measuredValue" : 45.722248,
+      "name" : "Confianza alta",
+      "passed" : true
+    },
+    {
+      "expectedDescription" : "2.0–3.3 m",
+      "id" : 3,
+      "measuredUnit" : "m",
+      "measuredValue" : 2.1945825,
+      "name" : "Largo (eje mayor)",
+      "passed" : true
+    },
+    {
+      "expectedDescription" : "1.1–2.0 m",
+      "id" : 4,
+      "measuredUnit" : "m",
+      "measuredValue" : 1.3745133,
+      "name" : "Alto (eje medio)",
+      "passed" : true
+    },
+    {
+      "expectedDescription" : "0.4–1.1 m",
+      "id" : 5,
+      "measuredUnit" : "m",
+      "measuredValue" : 0.7778232,
+      "name" : "Grosor (eje menor)",
+      "passed" : true
+    },
+    {
+      "expectedDescription" : "1.2–1.8",
+      "id" : 6,
+      "measuredUnit" : "ratio",
+      "measuredValue" : 2.0041428,
+      "name" : "Aplanamiento H\/W",
+      "passed" : false
+    },
+    {
+      "expectedDescription" : "2000–4000 pts\/m²",
+      "id" : 7,
+      "measuredUnit" : "pts\/m²",
+      "measuredValue" : 2258.7258,
+      "name" : "Densidad",
+      "passed" : true
+    }
+  ],
+  "edgeBordersTouched" : 0,
+  "edgeOverrideTriggered" : false,
+  "passedCount" : 5,
+  "timestamp" : 420845.675371791,
+  "totalCount" : 7,
+  "verdict" : "ACEPTABLE"
+}

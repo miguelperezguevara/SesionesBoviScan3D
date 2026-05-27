@@ -1,0 +1,14 @@
+{
+  "animalId" : "sin_id",
+  "device" : "iPhone",
+  "distanceAvgM" : 2.3463674,
+  "distanceStdM" : 0.0022629893,
+  "estimatedWeightKg" : 683.7446,
+  "framesCaptured" : 5,
+  "isTestCapture" : true,
+  "notes" : "Adulto | Lateral",
+  "sessionId" : "AEF734AB-84E0-492E-81DB-937943D1B8E1",
+  "sex" : "M",
+  "timestamp" : "2026-05-27T01:27:09Z",
+  "viewAngle" : "lateral_derecha"
+}
